@@ -1,4 +1,4 @@
 # harryfirst-demo
 This is my first Git Repository.
 <br>
-Author - Harry Singh
+Author - Harry Singh (Coder)
